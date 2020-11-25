@@ -11,7 +11,7 @@
     - предложить меры по снижению оттока
     - определить другие особенности взаимодействия с клиентами
     
-![Матрица корреляций](<https://raw.githubusercontent.com/paraseusse/Client-churn-prediction-for-fitness-club/main/Correlation.jpeg?token=AMTEIGG6UDOJYC5Z4RUWQVS7XZ4A4>)
+![Матрица корреляций](<https://raw.githubusercontent.com/paraseusse/Client-churn-prediction-for-fitness-club/main/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/Denfrogram.jpeg?token=AMTEIGEQSUNXMPO6AKMPBCC7X2LIM>)
 
 ## Содержание
 - Описание проекта

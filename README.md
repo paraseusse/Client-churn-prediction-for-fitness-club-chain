@@ -10,6 +10,8 @@
     - выделить целевые группы клиентов
     - предложить меры по снижению оттока
     - определить другие особенности взаимодействия с клиентами
+    
+![Воронка конверсий по усредненным данных](<https://raw.githubusercontent.com/paraseusse/Analysis-of-conversions-from-RFP-via-site-to-won-opportunities/main/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%83%D1%81%D1%80%D0%B5%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B7%D0%B0%206%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2.png?token=AMTEIGARISIQNHLOXYCUW3K7XZQN6>)
 
 ## Содержание
 - Описание проекта

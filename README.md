@@ -1,6 +1,6 @@
 # Прогнозирование вероятности оттока пользователей для фитнес-центров
 
-### Используемые библиотеки: `python`,`pandas`,`seaborn`, `sklearn`,`sklearn.model_selection`, `StandardScaler`, `LogisticRegression`, `RandomForestClassifier`, `KMeans`, `sklearn.metrics`, `sklearn.cluster`, 
+### Используемые библиотеки: `python`,`pandas`,`seaborn`, `sklearn`,`sklearn.model_selection`, `StandardScaler`, `LogisticRegression`, `RandomForestClassifier`, `KMeans`, `sklearn.metrics`, `sklearn.cluster`
 
 ## Задача
 - Прогноз вероятности оттока (на уровне следующего месяца) для каждого клиента
